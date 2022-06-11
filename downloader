@@ -1,7 +1,7 @@
 {
 "AdmobId":"pub-5407488668219485",
 "OpenAdmob":"ca-app-pub-5407488668219485/5080927946",
-"cpaGiftLink":"https://www.google.com/",
+"cpaGiftLink":"https://www.facebook.com/",
 "AdUnits" : [ 
     {
       "adsActivity":"main",
@@ -11,9 +11,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "bannerAds" : "applovin",
       "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"gallery",
