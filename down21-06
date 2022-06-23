@@ -6,12 +6,12 @@
 	"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
 	"applovinInterstitial":"70f0906f2b6dbc50",
 	"facebookButton":"admob",
-	"whatsappButton":"admob",
+	"whatsappButton":"applovin",
 	"instaButton":"admob",
-	"twitterButton":"admob",
+	"twitterButton":"applovin",
 	"tiktokButton":"admob",
 	"likeeButton":"admob",
-	"gelleryButton":"admob",
+	"gelleryButton":"applovin",
 	"aboutButton":"admob"
 },
 "AdUnits" : [ 
