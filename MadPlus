@@ -4,15 +4,15 @@
 "cpaGiftLink":"https://www.clubail.com/",
 "MainUnits":{
 	"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-	"applovinInterstitial":"70f0906f2b6dbc50",
-	"facebookButton":"admob",
+	"applovinInterstitial":"afbb445a4e8c2616",
+	"facebookButton":"applovin",
 	"whatsappButton":"applovin",
-	"instaButton":"admob",
+	"instaButton":"applovin",
 	"twitterButton":"applovin",
-	"tiktokButton":"admob",
+	"tiktokButton":"applovin",
 	"likeeButton":"applovin",
 	"gelleryButton":"applovin",
-	"aboutButton":"admob"
+	"aboutButton":"applovin"
 },
 "AdUnits" : [ 
     {
@@ -20,132 +20,132 @@
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
       "bannerAds" : "applovin",
       "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"gallery",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"0000000000000000",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
       "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"howto",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
+      "nativeAds" : "applovin",
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"about",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
       "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"facebook",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173700",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
       "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"whatsapp",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
+      "nativeAds" : "applovin",
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"help",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
+      "nativeAds" : "applovin",
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"likee",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
+      "nativeAds" : "applovin",
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"tiktok",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
       "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"twitter",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
-      "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "BannerApplovin":"52d98c4daf10b324",
+      "NativeApplovin":"62d1ce18d157fcab",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
+      "nativeAds" : "applovin",
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"insta",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
-      "BannerApplovin":"7edae74f5e435c67",
+      "BannerApplovin":"62d1ce18d157fcab",
       "NativeApplovin":"d7df0678e853d2f5",
-      "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "InterstitialApplovin":"afbb445a4e8c2616",
+      "bannerAds" : "applovin",
       "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     }
 ]
 } 
